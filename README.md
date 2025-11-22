@@ -46,9 +46,16 @@
   <div style="padding:12px; border-radius:10px; background:#fff; box-shadow:0 4px 14px rgba(14,14,30,0.03);">
     <h3 style="margin:0 0 8px 0; font-size:1rem;">📁 Proyectos destacados</h3>
     <ul style="margin:6px 0 0 14px; padding:0; color:#333;">
-      <li><a href="https://github.com/MartinSpadachini1" target="_blank" rel="noreferrer">Proyecto 1 — App React + API</a></li>
-      <li><a href="https://github.com/MartinSpadachini1" target="_blank" rel="noreferrer">Proyecto 2 — Microservicios</a></li>
-      <li><a href="https://github.com/MartinSpadachini1" target="_blank" rel="noreferrer">Proyecto 3 — Automatización</a></li>
+      <h2>Harp</h2>
+      <p>Plataforma para la publicación e inscripción de cursos.</p>
+      <p>Tecnologías utilizadas:</p>
+      <p> Java, JavaScript, React, Spring...</p>
+      <a href="https://github.com/MartinSpadachin1/Harp" target="_blank" rel="noreferrer">Proyecto Harp</a>
+      <h2>Restaurante</h2>
+      <p>Sistema para un restaurante, contempla los pedidos realizados en el restaurante</p>
+      <p>Tecnologías utilizadas:</p>
+      <p> NodeJs, JavaScript, React, Spring...</p>
+      <a href="https://github.com/MartinSpadachin1/Restaurante-" target="_blank" rel="noreferrer">Proyecto Restaurante</a>
     </ul>
   </div>
 </div>
